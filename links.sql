@@ -38,7 +38,7 @@ CREATE TABLE `links` (
 --
 
 INSERT INTO `links` (`id`, `name`, `url`) VALUES
-(1, 'test', 'https://funtime3freddy3.com/fuck');
+(1, 'test', 'https://funtime3freddy3.com');
 
 --
 -- Indexes for dumped tables
